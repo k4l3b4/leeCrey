@@ -1,2 +1,2 @@
 # leeCrey
- A react.js frnotend for the LEECrey meme sharing app
+ A react.js frontend for the LEECrey meme sharing app
